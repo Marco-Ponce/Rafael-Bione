@@ -213,7 +213,7 @@ footer {
 
 @media only screen and (min-width: 800px) {
     body {
-        background-image: url('/assets/png/Design\ sem\ nome.jpg');
+        background-image: url('/assets/png/bck.jpg');
         background-attachment: fixed;
     }
 
